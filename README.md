@@ -1,3 +1,5 @@
+Server Update..!
+
 # Legacy - Discover Theni's Beauty
 
 Welcome to **Legacy**, a curated guide showcasing the enchanting tourist spots of **Theni**, Tamil Nadu. This repository highlights some of the must-visit locations with brief descriptions to help travelers explore the scenic beauty of the region.
